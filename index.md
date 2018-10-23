@@ -5,8 +5,6 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-- template: navigation-header
-  block: header-1
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
